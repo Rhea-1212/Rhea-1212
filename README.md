@@ -3,7 +3,7 @@
 
 I turn real business problems into clear product requirements, measurable goals and prioritised solutions. Below is my product work, built around a live, numbers-driven problem.
 
-📧 your.email@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/your-handle)
+📧 rheaparmar19dec@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/rhea-parmar-837a6a16a/)
 
 ---
 
