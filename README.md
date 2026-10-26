@@ -10,7 +10,7 @@ I turn real business problems into clear product requirements, measurable goals 
 ## 🚀 Featured case study
 
 ### InstaHelp: Fixing Reliability in 15-Minute Home Services
-**[Read the full case study →](https://github.com/Rhea-Parmar/instahelp-prd-case-study)** · **[PRD (PDF)](https://github.com/Rhea-Parmar/instahelp-prd-case-study/blob/main/PRD.pdf)**
+**[Read the full case study →](https://github.com/Rhea-1212/instahelp-prd-case-study)** · **[PRD (PDF)](https://github.com/Rhea-1212/instahelp-prd-case-study/blob/main/PRD.pdf)**
 
 | | |
 |---|---|
